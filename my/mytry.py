@@ -19,6 +19,7 @@ info = "Thank you %s, your age is %i. \n We will try to find work in the city %s
 print(info)
 print("We will send you letter, check your postbox.")
 print (list_bye)
+print("Good luck")
 
 file_info.write(info)
 file_info.close()
